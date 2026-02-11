@@ -14,7 +14,7 @@
 
 ### Problem Formulation
 
-Given a network graph $G = (V, A)$ and an event $E$ with multi-structural attributes (textual description $E_d$, spatial context $E_n$, temporal context $E_t$), the task is to simulate realistic future network states $\hat{X} \in \mathbb{R}^{T \times N}$ that reflect how the event evolves and propagates:
+Given a network graph $G = (V, A)$ and an event $E$ with multi-structural attributes, the task is to simulate realistic future network states that reflect how the event evolves and propagates:
 
 $$E = \{E_d, E_n, E_t\} \xrightarrow{G} \hat{X} \in \mathbb{R}^{T \times N}$$
 
