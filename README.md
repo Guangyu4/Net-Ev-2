@@ -1,5 +1,5 @@
 # Net-Ev$^2$: A Generative Simulator for Network Event Evolution
-
+https://zenodo.org/badge/DOI/10.5281/zenodo.20506368.svg
 ---
 
 ## 🎯 New Task: Network Event Evolution Simulation
