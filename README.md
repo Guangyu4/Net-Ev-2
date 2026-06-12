@@ -62,7 +62,7 @@ We introduce **Net-Ev$^2$-6.5M**, a large-scale multimodal benchmark with over *
 **Note**: Due to memory limitations, we only upload 1/1000 of the SD dataset (2017) in `Net-Ev-2/Data/SD/2017` for demonstration purposes.
 
 
-''’
+```
 @inproceedings{
 2026netev,
 title={Net-Ev\${\textasciicircum}2\$: A Generative Simulator for Network Event Evolution},
@@ -71,7 +71,7 @@ booktitle={32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 -
 year={2026},
 url={https://openreview.net/forum?id=xutVnQtlA7}
 }
-'''
+```
 
 
 
